@@ -1,0 +1,25 @@
+{
+    "name": "pointless-syntax-highlighting",
+    "displayName": "Pointless Syntax Highlighting",
+    "description": "Syntax highlighting for the functional language Pointless",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "pointless",
+            "aliases": ["Pointless", "pointless"],
+            "extensions": [".ptls"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "pointless",
+            "scopeName": "source.ptls",
+            "path": "./syntaxes/pointless.tmLanguage.json"
+        }]
+    }
+}
