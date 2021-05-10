@@ -23,7 +23,7 @@
       "patterns": [
         {
           "name": "keyword.control.pointless",
-          "match": "\\b(export|output|if|then|else|where|case|with|for|when|yield|requires|and)\\b"
+          "match": "(\\b(export|output|if|then|else|where|case|with|for|when|yield|requires|and)\\b)|\\|>"
         }
       ]
     },
