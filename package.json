@@ -3,6 +3,10 @@
   "displayName": "Pointless Syntax Highlighting",
   "description": "Syntax highlighting for the functional language Pointless",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roetlich/pointless-syntax-highlighting-vscode"
+  },
   "scripts": {
     "copy-to-vscode": ""
   },
