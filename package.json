@@ -2,7 +2,8 @@
   "name": "pointless-syntax-highlighting",
   "displayName": "Pointless Syntax Highlighting",
   "description": "Syntax highlighting for the functional language Pointless",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "license": "WTFPL",
   "publisher": "pointless-vscode-publisher",
   "repository": {
     "type": "git",

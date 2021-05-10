@@ -10,6 +10,6 @@ This is what it looks like:
 
 ![Screenshot](./ScreenShot.png)
 
-With this extension commenting out code sections (Ctr+/ or Cmd+/) and paring parantheses/braces will also work.
+With this extension commenting out code sections (`Ctr + /` or `Cmd + /`) and paring parantheses/braces should also work.
 
 
