@@ -1,6 +1,6 @@
 # pointless-syntax-highlighting
 
-This provides simple syntax highlighting for [Pointless](https://ptls.dev/) in VS Code.
+This extension provides simple syntax highlighting for [Pointless](https://ptls.dev/) in VS Code.
 
 ## Features
 
@@ -10,5 +10,6 @@ This is what it looks like:
 
 ![Screenshot](./ScreenShot.png)
 
-With the commenting out code sections and paring parantheses and braces will also work.
+With this extension commenting out code sections (Ctr+/ or Cmd+/) and paring parantheses/braces will also work.
+
 
